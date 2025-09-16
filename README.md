@@ -1,2 +1,0 @@
-# Guitar-scale
-Scale modes
